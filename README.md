@@ -1,3 +1,5 @@
+#Demo App provided by Ionic
+
 # The Ionic Super Starter 🎮
 
 _Note: the Ionic Super Starter requires Ionic CLI 3._
